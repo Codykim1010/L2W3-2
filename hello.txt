@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 1line
-2 line
+Second line
+>>>>>>> bdf648a (First commit from new_branch)
